@@ -1,0 +1,26 @@
+.about{
+    height: 99vh;
+    background-color: #1abc9c;
+    overflow: hidden;
+}
+.Aicon{
+    position: relative;
+}
+.Aicon::after{
+    content: "";
+    width: 90px;
+    height: 4px;
+    position: absolute;
+    background-color: #fff;
+    left: 30px;
+    bottom: 8px;
+}
+.Aicon::before{
+    content: "";
+    position: absolute;
+    width: 90px;
+    height: 4px;
+    right: 30px;
+    bottom: 8px;
+    background-color: white;
+}

@@ -1,0 +1,37 @@
+.homeContent{
+    height: 99vh;
+    overflow: hidden;
+    background-color: #1abc9c;
+}
+img{
+    width: 250px;
+    height:250px;
+    
+    border-radius: 50%;
+    
+    
+}
+.Hicon{
+    position: relative;
+}
+.Hicon::after{
+    content: "";
+    width: 90px;
+    height: 4px;
+    position: absolute;
+    background-color: #fff;
+    left: 30px;
+    bottom: 8px;
+   
+
+}
+.Hicon::before{
+    content: "";
+    position: absolute;
+    width: 90px;
+    height: 4px;
+    right: 30px;
+    bottom: 8px;
+    background-color: white;
+    
+}
