@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.6eb5e6b2.css",
+    "main.js": "/React-App/static/js/main.41f91075.js",
+    "static/js/787.7e52bc4b.chunk.js": "/React-App/static/js/787.7e52bc4b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/React-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/React-App/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/React-App/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/React-App/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/React-App/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/React-App/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/man5-512.webp": "/React-App/static/media/man5-512.57105a4a847bdc3f7f9b.webp",
+    "static/media/fa-v4compatibility.ttf": "/React-App/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/one.webp": "/React-App/static/media/one.cc41c23e5866754221c2.webp",
+    "static/media/fa-v4compatibility.woff2": "/React-App/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/React-App/index.html",
+    "main.6eb5e6b2.css.map": "/React-App/static/css/main.6eb5e6b2.css.map",
+    "main.41f91075.js.map": "/React-App/static/js/main.41f91075.js.map",
+    "787.7e52bc4b.chunk.js.map": "/React-App/static/js/787.7e52bc4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb5e6b2.css",
+    "static/js/main.41f91075.js"
+  ]
+}
